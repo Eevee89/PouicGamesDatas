@@ -1,0 +1,48 @@
+Après quel rang sobtient le rang X dans Splatoon 2 ?
+S+9
+S+10,S+50,S+0
+Combien de classes d'armes y a-t-il dans Splatoon 3 ?
+11
+9,7,13
+Comment gagner des supers coquillages hors Splatfest dans Splatoon 2 ?
+En montant de niveau
+En achetant à Céphalochic,En parlant à Tipik,Dans le métro souterrain
+Quel est le niveau maximal dans Splatoon 2 ?
+198
+200,99,50
+Les combats contre les Octaling se passent dans les maps du mode en ligne ?
+Vrai
+Faux,(ne pas cliquer),(ne pas cliquer)
+Quel type de vêtements donnent les amiibos Calamar ?
+Des armures méca
+Des tenues d'écolière,Des costumes,Des tenues d'idoles
+A combien d'humains peut-on parler dans l'ensemble des 3 jeux ?
+0
+3,1,5
+Quel est le numéro de notre agent dans le 3e jeu ?
+3
+5,8,4
+Comment obtenir un bagde doré sur une arme dans Splatoon 2 ?
+Peindre 999999999p avec
+Tuer 9999 ennemis,L'utiliser pendant 100h,Finir le mode héros avec
+La topologie des maps changent selon le mode de jeu.
+Vrai
+Faux,(ne pas cliquer),(ne pas cliquer)
+Dans Splatoon 1 et 2 où se trouvait le terrain d'entrainement ?
+Derrière le magasin d'armes
+Dans le hall,On ne sait pas,Dans l'Encrepot
+A quelle condition perd-t-on son rang X dans Splatoon 2 ?
+Avoir un X-Power#inférieur à 2000#à la fin du mois
+Perdre 3 matchs,Ne pas jouer#pendant 2 semaines,Retourner en classique
+Quelle est la durée (en minutes) maximale d'un match pro ?
+10
+5,3,8
+Sans compter Céphalochic, combien de vendeurs rencontrent-on dans les 3 opus ?
+11
+12,13,10
+Combien de niveaux y a-t-il dans le Métro Abyssal ?
+80
+120,88,50
+Combien y a-t-il de manières de mourir en ligne ?
+3
+1,5,2
