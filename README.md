@@ -9,3 +9,5 @@ All datas from the main branch go directly in the PouicGameDatas, no sub-folder
 All monsters images from Monstres go in a sub-folder PouicGameDatas/Monstres
 All pokemon images from Pokemon go in a sub-folder PouicGameDatas/Pokemon
 All shadow images from Ombres go in a sub-folder PouicGameDatas/Ombres
+
+The Flowchart.pdf files are not part of the datas, they exist to describe how the app works. 
