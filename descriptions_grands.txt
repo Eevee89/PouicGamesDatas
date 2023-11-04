@@ -1,0 +1,70 @@
+Grand Izuchi : L'Izuchi meneur, repérable à sa carrure imposante, sa fourrure blanche et sa queue semblable à une faux.
+Grand Baggi : Le Grand Baggi est renommé pour sa crête crânienne imposante et son pelage bleu et blanc parfaitement adapté aux climats enneigés.
+Kulu-Ya-Ku : Une wyverne rapace qui a développé des membres capables de porter des objets.
+Grand Wroggi : Les Wroggi sont des wyvernes rapaces se déplaçant en meute et menés par le monstre le plus imposant et toxique.
+Arzuros : Ses griffes acérées et ses pattes avant puissantes lui servent surtout à pêcher et à récolter du miel, mais il est aussi capable d'infliger des coups puissants à ses agresseurs.
+Lagombi : Une bête à crocs et aux longues oreilles qui survit dans les climats froids grâce à sa fourrure chaude et à ses couches épaisses de graisse.
+Volvidon : L'épaisse carapace rouge de cette bête à grandes dents résiste à la lave.
+Aknosom : Ayant tendance à tenir sur une jambe, ce monstre ressemble à une sorte de parapluie. Il déploie ses ailes et sa crête pour effrayer ses assaillants.
+Ludroth Royal : Plus gros que le Ludroth ordinaire, le Ludroth Royal absorbe l'eau avec sa crinière spongieuse.
+Barroth : Les Barroth restent en général sous la boue pour se protéger de la chaleur. Ils attaquent en lançant de la boue.
+Hermitaur Daimyo : Les Hermitaur Daimyo se servent de leurs griffes énormes pour se protéger. Ces créatures portent des crânes de wyverne sur le dos quand elles sont adultes.
+Khezu : Une wyverne répugnante vivant dans les grottes et autres lieux sombres. Presque aveugle, le Khezu chasse avec son odorat. Il étend son long cou pour attaquer.
+Tetranadon : Un monstre amphibien ressemblant à un crapaud. Le disque crânien protégeant sa tête souple deviendrait plus dur et bleu au fil du temps.
+Bishaten : Un monstre avec une queue distincte. Il est curieux et adore s'amuser à jouer des tours ; il a été aperçu à jeter des fruits sur ses proies avec sa queue.
+Bishaten Sanguin : Un monstre avec une queue distincte, sous-espèce de Bishaten tirant son nom de sa fourrure orange.
+Pukei-Pukei : Une wyverne rapace dont le corps renferme des toxines vénéneuses. Elle se sert de sa langue comme d'un lasso lui permettant d'attraper de la nourriture.
+Jyuratodus : Une wyverne aquatique qui réside dans les marais et se sert de la boue que l'on y trouve pour chasser et survivre. Elle s'y prélasse pour hydrater sa peau et préserver la robustesse de ses écailles.
+Basarios : Souvent cachés sous terre, ils imitent les rochers et attaquent les mineurs peu méfiants.
+Somnacanth : Un serpent aquatique impressionant qui apparaît les nuits de pleine lune, ce qui peut expliquer pourquoi on le prend pour une sirène.
+Somnacanth Aurore : Un serpent aquatique que l'on prend pour une sirène les nuits de pleine lune. La lumière illumine la poussière autour de cette sous-espèce de Somnacanth et lui donne une apparence quasi féérique.
+Rathian : Wyvern femelle crachant du feu, aussi appelée 'reine de la terre'. Avec ses pattes puissantes et sa queue sécrétant du poison, elle chasse principalement au sol. On la voir parfois coopérer avec le Rathalos.
+Rathian d'or : Une espèce rare de Rathian couverte d'écailles dorées. Surnommée la 'Wyverne de feu dorée' ou la 'Lune dorée', cette wyverne majestueuse est redoutée pour ses écailles résistantes et sa queue puissante.
+Barioth : Wyverne volante régnant sur les plaines gelées de la toundra. Le Barioth se déplace facilement sur la glace grâce à ses pattes avant, sa queue, et ses écailles pointues.
+Tobi-Kadachi : Une wyverne à crocs qui aime voler entre les cimes des arbres. Elle se charge en électricité statique en se frottant aux arbres ou au sol lorsqu'elle se déplace, ce qui lui permet d'atteindre un état de surcharge, que l'on peut repérer à sa fourrure brillante.
+Magnamalo : Un monstre à la carapace dure comme de l'acier. La vapeur violette qui l'entoure est le résultat des gaz émis par les nombreux monstres qu'il a dévorés, ce qui lui a valu le surnom de 'Wyverne maléfique'.
+Magnamalo Enragé : Une forme de Magnamalo encore plus vicieuse et féroce. Enveloppé de Feu de l'enfer (vapeur violette), il est recouvert de plus grandes écailles et d'un blindage plus robuste.
+Anjanath : Ce monstre belliqueux attaque tout ce qu'il voit sans aucune hésitation. La memebrane le long de sa queue se déploie lorsqu'il se sent provoqué.
+Nargacuga : Wyverne volante qui s'est adaptée à la vie dans les forêts denses. Recouverte d'une fourrure noir de jais, elle traque ses proies tapie dans l'ombre avant d'attaque avec férocité. Aussi agile que mortelle, sa queue énorme est assez puissante pour tuer de petits monstres d'un seul coup.
+Nargacuga Sélénite : Nargacuga à la fourrure brillante vivant sur des terres brumeuses. Le Nargacuga Sélénite se cache dans le brouillard nocturne et le clair de lune et lance des attaques impossibles à anticiper ou à voir.
+Mizutsune : Un léviathan évolué avec un corps agile et éléguant. Le Mizutsune peut sécréter une mousse particulière qui recouvre ses proies de bulles paralysantes. Une fois sa victime affaiblie, il s'en rapproche par des mouvements semblables à une danse.
+Mizutsune Mauve : Le Mizutsune Mauve est un léviathan connu pour sa belle fourrure lilas. Le Mizutsune est une créature gracieuse. Mais lorsqu'il chasse, il transforme l'environnement en un magnifique, mais mortel, braisier de flammes blanches.
+Goss Harag : Un monstre des régions glaciales. Sa fourrure épaisse le protège du froid tandis qu'il parcout les plaines à la recherche d'une proie. Quand il est énervé, le Goss Harag devient rouge et extrêmement dangereux.
+Garangolm : Monstre caractérisé par son corps massif et rigide. Ses fluides semblables à de la sève favorisent la croissance des plantes, forgeant une relation symbiotique avec la flore qui pousse sur son corps.
+Ceanataur Shogun : Les Ceanataur Shogun ont de longues griffes cachées qui se transforment en lames terrifiantes quand ils se mettent en colère. Certains utilisent aussi des crânes de wyverne pour se protéger et disposent parfois d'une attaque style jet d'eau.
+Rathalos : Terrible wyverne surnommée 'Roi des cieux'. Comme la Rathian, il surveille de vastes territoires autour de son nid et fond du ciel sur les intrus, attaquant avec ses griffes empoisonnées et son souffle de feu.
+Rathalos d'argent : Une espèce rare de Rathalos couverte d'écailles argentées. Surnommée la 'Wyverne de feu argentée' ou le 'Soleil d'argent', cette wyverne majestueuse est redoutée pour son souffle puissant et ses serres redoutables.
+Almudron : L'Almudron adore se prélasser dans la boue... Enfin jusqu'à ce qu'il émerge pour écraser sa proie. Sa queue sécrète un liquide doré dont ce monstre se sert pour dissoudre le sol où se tient sa proie.
+Almudron Magma : Les Almudron Magma vivent dans les Cavernes de lave et peuvent manipuler du magma au lieu de la boue, contrairement aux Almudron normaux. Il sécrète un liquide qui transforme le sol en lave.
+Zinogre : Une wyverne à crocs au corps chargé d'électricité, prospérant dans les terrains montagneux grâce à ses griffes acérées et ses membres solides.
+Lunagaron : Le Lunagaron refroidit l'air inspiré par thermo-régulation. Il est surtout quadripède mais bloque son mécansime de refroidissement pour se tenir sur deux pattes et augmente sa température corporelle pour gonfler ses muscles.
+Astalos : Grandes wyvernes volantes dont les organes en forme de crête leur permettent de produire beaucoup d'électricité. Les Astalos les font vibrer sur leur tête, leur queue fourchue et leurs ailes pour les charger d'électricité, les renforcer et amplifier leur portée.
+Espinas : Wyvernes volantes connues pour leurs pointes rouges sur un corps vert, servant pour l'attaque et la défense et repoussant les ennemis. Elles aiment ainsi se détendre sur leur territoire.
+Espinas de Feu : L'Espinas de Feu est une sous-espèce d'Espinas, wyvenres vertes à pointes rouges, de couleur légèrement différente.
+Gore Magala : Les Gore Magala ont des ailes dotées de fines membranes. Ils n'ont pas de récepteurs visuels, mais compensent cela en projetant des écailles pour localiser les formes de vie alentours. Ce sont des monstres sinistres et dangereux.
+Gore Magala du Chaos : Des Gore Magala qui ont sombré dans le chaos, ayant été privés de leur évolution en Shagaru Magala. Ils conservent leur pouvoir originel, tout en possédant le potentiel du Shagaru Magala, ce qui les rend très instables.
+Seregios : Grandes wyvernes volantes brunes recouvertes d'écailles acérées.
+Tigrex : Une wyverne volante aux origines primitives évidentes. Enclin à la violence, le Tigrex fait preuve d'une terrible férocité avec ses griffes, ses mâchoires et ses membres développés.
+Diablos : Connu sous le nom du 'Tyran du Désert', le Diablos est extrêmement territorial et se rue sur les envahisseurs avec ses énormes cornes.
+Rakna-Kadaki : Le Rakna-Kadaki est habituellement recouvert de toiles collantes. Ses enfants, accrochés à son abdomen, sont appelés des Rachnoid, et il les contrôle grâce au gaz inflammable qu'il sécrète.
+Rakna-Kadaki de Feu : Une sous-espèce de Rakna-Kadaki de matière explosive au corps couvert d'un maillage rouge foncé résistant aux explosions.
+Kushala Daora : Dragon ancien gris métallique.
+Chameleos : Il serait capable de se fondre dans son environnement tel un caméléon d'où son nom. Des témoins évoquent la capacité de son souffle à créer une  sorte d'épais brouillard, semblant sortir de nulle part quand il est colère.
+Teostra : Ces féroces dragons anciens couverts de flammes et cracheurs de feu sont si dangereux que la Guilde surveille de très près leur comportement migratoire.
+Malzeno : Dragon couvert d'écailles argentées. Il a une allure majestueuse, mais une fois suffisamment d'énergie accumulée, il devient rouge sang.
+Shagaru Magala : Forme prise par les Gore Magala en croissant. Les Shagaru Magala sont couverts de belles écailles brillantes et leurs grandes ailes recouvrent tout leur corps.
+Velkhana : Connu comme étant un dragon ancien qui glace tout, le Velkhana reste cependant très mystérieux. Son souffle est si froid u'il peut faire apparaître d'énormes piliers et murs de glace. Il est également assez puissant pour glacer de grands monstres.
+Rajang : Un monstre ultra agressif. Peu de chasseurs ont eu la chance de l'apercevoir et encore moins d'y survivre. Lorsqu'il est énervé, une partie de son pelage prend une couleur dorée.
+Rajang Orage : Les Rajang Orage sont des Rajang couverts de fourrure dorée. Normalement, les Rajang retrouvent leur forrure noire une fois calmés, mais ces monstres ont perdu toute capacité à contrôler leur colère.
+Bazelgeuse : Une infâme wyverne volante qui parcourt le mond en quête de proies. Elle répand ses propres écailles explosives pour piéger ses victimes dans les flammes. Cela lui a valu le surnom de 'Wyverne explosive' dans certaines régions.
+Bazelgeuse Vulcan : Une variante du Bazelgeuse au corps si brûlant qu'il donne l'impression d'exploser à tout moment. La chaleur de ses écailles explosives et sa lueur bleue pâle sont dignes de son surnom 'Vulcan'.
+Ibushi du Vent : Un dragon ancien mâle au comportement étrange, comme lorsqu'il vole à l'envers, par exemple. De l'air es émis des branchies sur ses bras et sa queue pour qu'il puisse voler, créant ses propres turbulences pour s'élever.
+Narwa du Tonnerre : Un dragon ancien et la reine de l'Ibushi du Vent. Ses poches à foudre s'illuminent avec l'énergie accumulée. Il est dit que ces organes génèrent un puissant champ magnétique qui fait léviter le monstre et tout ce qui l'entoure.
+Valstrax Ecarlate : Un Valstrax mutant terrifiant que l'on appelle la 'Lueur écarlate'. Une fois sa proie repérée, il s'abat en flèche sur elle, l'écrasant sous le poids de ses ailes.
+Gaismagorm : Monstre gigantesque vivant dans les profondeurs de la Terre depuis des millénaires. Ses avant-bras durs et puissants lui permettent de creuser. Il a une relation symbiotique avec les Qurio, qui lui fournissent de l'énergie. Une fois qu'il a choisi son nid, il fait s'écrouler les roches qui l'entourent pour créer une ouverture vers la surface qui devient un cratère utilisé par les Qurio.
+Arzuros Supérieur : Un Arzuros si puissant qu'il a été élu monstre supérieur. Plus sombre qu'un Arzuros normal, il est couvert de cicatrices, comme s'il avait enduré une tempête.
+Rathian Supérieure : Une Rathian si puissante qu'elle a été élue monstre supérieur. D'une couleur violette, elle est couverte de cicatrices, comme s'elle avait enduré une tempête.
+Mizutsune Supérieur : Un Mizutsune si puissant qu'il a été élu monstre supérieur. Plus sombre qu'un Mizutsune normal, il est couvert de cicatrices, comme s'il avait enduré une tempête.
+Rathalos Supérieur : Un Rathalos si puissant qu'il a été élu monstre supérieur. Plus sombre qu'un Rathalos normal, il est couvert de cicatrices, comme s'il avait enduré une tempête.
+Diablos Supérieur : Un Diablos si puissant qu'il a été élu monstre supérieur. Plus sombre qu'un Diablos normal, il est couvert de cicatrices, comme s'il avait enduré une tempête.
+Zinogre Supérieur : Un Zinogre si puissant qu'il a été élu monstre supérieur. Plus sombre qu'un Zinogre normal, il est couvert de cicatrices, comme s'il avait enduré une tempête.
